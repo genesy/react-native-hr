@@ -37,4 +37,5 @@
   <Hr style={{background:'yellow', color:'red'}}><Text>Test</Text></Hr>
 ```
 
-
+Example output
+![example](examples/example.jpg)
