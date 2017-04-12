@@ -2,7 +2,9 @@
 
 <Hr> Tag for React Native
 
+## installation
 
+``` npm install --save @genesy/react-native-hr ```
 ## Usage
 
 
@@ -38,4 +40,6 @@
 ```
 
 Example output
+
 ![example](examples/example.jpg)
+
