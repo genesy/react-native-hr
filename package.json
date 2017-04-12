@@ -1,5 +1,5 @@
 {
-  "name": "react-native-hr",
+  "name": "@genesy/react-native-hr",
   "version": "1.0.0",
   "description": "Native React <Hr> Component",
   "main": "dist/index.js",
