@@ -1,0 +1,16 @@
+{
+  "name": "react-native-hr",
+  "version": "1.0.0",
+  "description": "Native React <Hr> Component",
+  "main": "src/index.js",
+  "author": "Gene Sy",
+  "license": "ISC",
+  "keywords": [
+    "react native",
+    "line",
+    "hr",
+    "horizontal",
+    "horizontal rule",
+    "react-native-hr"
+  ]
+}
