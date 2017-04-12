@@ -1,4 +1,7 @@
-import React, { Component, PropTypes } from 'react';
+import {
+  Component
+} from 'react';
+
 import {
   View,
   Text,
@@ -57,4 +60,4 @@ class HrLine extends Component {
   }
 }
 
-export default  Hr;
+export default Hr;
